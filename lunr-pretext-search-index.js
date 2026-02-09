@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Vectors in <span class=\"process-math\">\\(\\R^n\\)<\/span>",
-  "body": " Vectors in  the vector space structure of ...  "
+  "body": " Vectors in  the vector space structure of ...     first item    second item     "
 },
 {
   "id": "sec-linear-combos",
