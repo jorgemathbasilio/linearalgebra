@@ -13,6 +13,21 @@
     <p>
         the vector space structure of <m>\R^n</m>...
     </p>
+
+    <p>
+      <ol>
+        <li>
+          <p>
+            first item
+          </p>
+        </li>
+        <li>
+          <p>
+            second item
+          </p>
+        </li>
+      </ol>
+    </p>
   </section>
 
   <section xml:id="sec-linear-combos">
