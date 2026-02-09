@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-axioms-and-proofs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Axioms, Proofs and the Language of Mathematics</title>
+
+  <introduction>
+    <p> Intro text goes here. Add later... </p>
+  </introduction>
+
+  <section xml:id="sec-axioms">
+    <title>Axioms</title>
+    
+    <p>
+        add axioms of R...
+    </p>
+  </section>
+
+  <section xml:id="sec-proofs">
+    <title>Proofs: The Language of Mathematics</title>
+    
+    <p>
+        Add stuff about proofs...
+    </p>
+  </section>
+
+  <conclusion>
+    <p>
+        add a conclusion paragraph...   
+    </p>
+  </conclusion>
+
+</chapter>
