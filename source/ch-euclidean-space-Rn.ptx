@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-vector-space-Rn" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Vector Space <m>\R^n</m></title>
+  <title>The Euclidean Space <m>\R^n</m></title>
 
   <introduction>
     <p> Intro text goes here. Add later... </p>
   </introduction>
 
-  <section xml:id="sec-vectors">
-    <title>Vectors in <m>\R^n</m></title>
+  <section xml:id="sec-dot-products">
+    <title>Dot Products in <m>\R^n</m></title>
     
     <p>
-        the vector space structure of <m>\R^n</m>...
+        the geometry of <m>\R^n</m>...
     </p>
 
-  </section>
-
-  <section xml:id="sec-linear-combos">
-    <title>Linear Combinations of Vectors</title>
-    
-    <p>
-        Add stuff about LCs and Spans...
-    </p>
   </section>
 
   <conclusion>
