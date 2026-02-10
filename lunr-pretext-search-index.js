@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Vectors in <span class=\"process-math\">\\(\\R^n\\)<\/span>",
-  "body": " Vectors in  the vector space structure of ...     first item    second item     "
+  "body": " Vectors in  the vector space structure of ...  "
 },
 {
   "id": "sec-linear-combos",
@@ -44,6 +44,15 @@ var ptx_lunr_docs = [
   "number": "2.2",
   "title": "Linear Combinations of Vectors",
   "body": " Linear Combinations of Vectors  Add stuff about LCs and Spans...  "
+},
+{
+  "id": "sec-dot-products",
+  "level": "1",
+  "url": "sec-dot-products.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Dot Products in <span class=\"process-math\">\\(\\R^n\\)<\/span>",
+  "body": " Dot Products in  the geometry of ...  "
 },
 {
   "id": "backmatter-2",
