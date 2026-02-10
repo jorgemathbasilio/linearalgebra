@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-vector-space-Rn" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch-euclidean-space-Rn" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Euclidean Space <m>\R^n</m></title>
 
   <introduction>

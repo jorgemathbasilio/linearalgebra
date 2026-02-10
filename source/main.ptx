@@ -14,6 +14,7 @@
     <!-- Include chapters -->
     <xi:include href="./ch-axioms-and-proofs.ptx" />
     <xi:include href="./ch-vector-space-Rn.ptx" />
+    <xi:include href="./ch-euclidean-space-Rn.ptx" />
 
 
     <!-- Include backmatter -->
