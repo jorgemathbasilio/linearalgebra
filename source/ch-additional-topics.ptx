@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-additional-topics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Additional Topics</title>
+
+  <introduction>
+    <p> Intro text goes here. Add later... </p>
+
+    <p>
+        <ul>
+            <li>
+                <p>
+                    first item
+                </p>
+            </li>
+            <li>
+                <p>
+                    second item
+                </p>
+            </li>
+            <li>
+                <p>
+                    third item
+                </p>
+            </li>
+            <li>
+                <p>
+                    fourth item
+                </p>
+            </li>
+            <li>
+                <p>
+                    fifth item
+                </p>
+            </li>
+        </ul>
+    </p>
+  </introduction>
+
+  <conclusion>
+    <p>
+        add a conclusion paragraph...   
+    </p>
+  </conclusion>
+
+</chapter>

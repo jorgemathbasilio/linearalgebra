@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-determinants-trace" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Determinants and Trace</title>
+
+  <introduction>
+    <p> Intro text goes here. Add later... </p>
+  </introduction>
+
+  <conclusion>
+    <p>
+        add a conclusion paragraph...   
+    </p>
+  </conclusion>
+
+</chapter>

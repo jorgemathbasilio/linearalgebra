@@ -15,7 +15,15 @@
     <xi:include href="./ch-axioms-and-proofs.ptx" />
     <xi:include href="./ch-vector-space-Rn.ptx" />
     <xi:include href="./ch-euclidean-space-Rn.ptx" />
-
+    <xi:include href="./ch-linear-trans-Rn.ptx" /> 
+    <xi:include href="./ch-algebra-matrices.ptx" />
+    <xi:include href="./ch-determinants-trace.ptx" />
+    <xi:include href="./ch-eigentheory.ptx" />
+    <xi:include href="./ch-linear-spaces.ptx" />
+    <xi:include href="./ch-inner-product-spaces.ptx" />
+    <xi:include href="./ch-spectral-theorem.ptx" />
+    <xi:include href="./ch-additional-topics.ptx" />
+    <xi:include href="./ch-applications.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
