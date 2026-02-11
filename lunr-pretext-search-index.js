@@ -55,6 +55,87 @@ var ptx_lunr_docs = [
   "body": " Dot Products in  the geometry of ...  "
 },
 {
+  "id": "ch-linear-trans-Rn",
+  "level": "1",
+  "url": "ch-linear-trans-Rn.html",
+  "type": "Chapter",
+  "number": "4",
+  "title": "Linear Transformations of Euclidean Spaces",
+  "body": " Linear Transformations of Euclidean Spaces   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-algebra-matrices",
+  "level": "1",
+  "url": "ch-algebra-matrices.html",
+  "type": "Chapter",
+  "number": "5",
+  "title": "The Algebra of Matrices",
+  "body": " The Algebra of Matrices   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-determinants-trace",
+  "level": "1",
+  "url": "ch-determinants-trace.html",
+  "type": "Chapter",
+  "number": "6",
+  "title": "Determinants and Trace",
+  "body": " Determinants and Trace   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-eigentheory",
+  "level": "1",
+  "url": "ch-eigentheory.html",
+  "type": "Chapter",
+  "number": "7",
+  "title": "EigenTheory",
+  "body": " EigenTheory   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-linear-spaces",
+  "level": "1",
+  "url": "ch-linear-spaces.html",
+  "type": "Chapter",
+  "number": "8",
+  "title": "Linear Spaces (aka Abstract Vector Spaces)",
+  "body": " Linear Spaces (aka Abstract Vector Spaces)   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-inner-product-spaces",
+  "level": "1",
+  "url": "ch-inner-product-spaces.html",
+  "type": "Chapter",
+  "number": "9",
+  "title": "Inner Product Spaces",
+  "body": " Inner Product Spaces   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-spectral-theorem",
+  "level": "1",
+  "url": "ch-spectral-theorem.html",
+  "type": "Chapter",
+  "number": "10",
+  "title": "The Spectral Theorem",
+  "body": " The Spectral Theorem   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
+  "id": "ch-additional-topics",
+  "level": "1",
+  "url": "ch-additional-topics.html",
+  "type": "Chapter",
+  "number": "11",
+  "title": "Additional Topics",
+  "body": " Additional Topics   Intro text goes here. Add later...     first item    second item    third item    fourth item    fifth item       add a conclusion paragraph...   "
+},
+{
+  "id": "ch-applications",
+  "level": "1",
+  "url": "ch-applications.html",
+  "type": "Chapter",
+  "number": "12",
+  "title": "Applications",
+  "body": " Applications   Intro text goes here. Add later...    add a conclusion paragraph...   "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
